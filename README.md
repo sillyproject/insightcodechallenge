@@ -1,7 +1,7 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-Submitted by: Sibo Gao
+
 Date: July 14, 2015
 Program used in this Coding Challenge: Python 2.7.10, MacOS Lion 10.7.5, no external library used
 
